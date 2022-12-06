@@ -22,12 +22,13 @@
   justify-content: center;
   font-family: "Montserrat", "sans-serif";
   font-size: 2vw;
-  padding: 4px;
+  padding: 3.2px;
   border-radius: 50px;
   color: white;
 }
 @media (max-width: 1000px) {
   .pageTitle {
     font-size: 6.4vw;
+    padding-top: 20px;
   }
 }
