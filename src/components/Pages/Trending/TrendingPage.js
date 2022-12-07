@@ -16,8 +16,8 @@ const TrendingPage = () => {
   };
 
   useEffect(() => {
-    //eslint-disable-next-line
     fetchTrending();
+    //eslint-disable-next-line
   }, [page]);
 
   return (
